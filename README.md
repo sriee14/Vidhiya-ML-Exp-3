@@ -13,7 +13,7 @@ Implement OLS via normal equations and compare to scikit-learn.
 
 
 
-## ALGORITHM (brief):
+## ALGORITHM:
 
  
  
